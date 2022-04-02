@@ -1,5 +1,8 @@
 # Presentación
 
-## Estudiante: Martina Soteras
+# Estudiante
+Nombre y apellido: Martina Soteras
 
-Seguí los pasos del doc [acá](https://docs.google.com/document/d/e/2PACX-1vQkogtG88cmwEIXEuff291urSyrZUYHikLIoRTspUodvIg5OoaUJTi8n0vqPJ3XUSN65sqJALTBizeB/pub).
+# Tarea
+Esta tarea consiste simplemente en editar este archivo 
+agregando tu nombre y apellido en la seccion anterior 

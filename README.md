@@ -1,8 +1,8 @@
 # Presentación
 
-# Estudiante
-Nombre y apellido: Martina Soteras
+## **Estudiante:** *Martina Rocío Soteras*
 
-# Tarea
-Esta tarea consiste simplemente en editar este archivo 
-agregando tu nombre y apellido en la seccion anterior 
+Soy una persona curiosa y con muchas ganas de aprender. Me gusta la música, leer y estoy interesada en la tecnología y en cómo podemos hacer uso de la misma para mejorar nuestro día a día.
+ 
+
+![mi foto](Fotopdep.jpeg)
